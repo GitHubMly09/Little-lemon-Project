@@ -12,4 +12,4 @@ Formik
 Jest
 React Testing Library
 Git and Github
-Figma
+Figma.
